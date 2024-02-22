@@ -1,2 +1,5 @@
 # Beer-Style-Finder
-We will see if the recipes are the correct style
+
+<!-- TODO: - Description of the Code & it's uses! -->
+
+<!-- TODO: - How to actually use the code itself -->
