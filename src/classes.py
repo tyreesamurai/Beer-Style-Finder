@@ -1,12 +1,6 @@
 class Recipe:
     def __init__(self):
-        self.name = None
-        self.category = None
-        self.recipe_type = None
-        self.ingredients = None
-        self.procedure = None
-        self.comments = None
-        self.id = None
+        pass
 
     def set_name(self, name):
         self.name = name
@@ -33,6 +27,7 @@ class Recipe:
             and hasattr(self, "recipe_type")
             and hasattr(self, "ingredients")
             and hasattr(self, "procedure")
+            and hasattr(self, "id")
         ):
             return True
         else:
@@ -41,10 +36,7 @@ class Recipe:
 
 class Ingredients:
     def __init__(self):
-        self.fermentables = None
-        self.hops = None
-        self.yeast = None
-        self.other = None
+        pass
 
     def set_fermentables(self, fermentables):
         self.fermentables = fermentables
@@ -63,7 +55,6 @@ class Ingredients:
             hasattr(self, "fermentables")
             and hasattr(self, "hops")
             and hasattr(self, "yeast")
-            and hasattr(self, "other")
         ):
             return True
         else:

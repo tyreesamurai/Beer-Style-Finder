@@ -2,6 +2,7 @@
 Australian RedBack
 Category Wheat Beer
 Recipe Type All Grain
+Fermentables
 7.75 lbs mix of 66% malted wheat extract and 33% barley
 1 lbs crystal malt (steeped, removed before boil)
 1 lbs amber unhopped dry malt extract
@@ -201,7 +202,8 @@ Fermentables
 6.6 lbs wheat malt extract
 Hops
 1 oz Hallertauer hops (boil 60 minutes)
-Yeast Wyeast Bavarian wheat yeast  Procedure Boil extract and hops. Dump in fermenter with
+Yeast Wyeast Bavarian wheat yeast
+Procedure Boil extract and hops. Dump in fermenter with
 enough cold water to make 5 gallons. Pitch yeast.
 -----
 - 12 -
@@ -5558,7 +5560,6 @@ and discard spent grains. Add malt syrup and bring to a boil. Add Perle hops and
 for 1 hour. Toss in Willamette hops in the last two minutes. Pitch yeast when cool.
 -----
 - 252 -
-.
 Gelber Weizen
 Category Wheat Beer
 Recipe Type Extract
@@ -7912,10 +7913,10 @@ least 30 minutes. Bring to 170 degrees for 5 minutes for mash out. Sparge with 2
 Add dry extract, bring to boil. Boil 15 minutes and add one ounce of Tettnanger. Boil one hour.
 Add 1 ounce of Tettnanger at 30 minutes. Add 1/2 ounce of Tettnanger and 1/2 ounce of
 Cascade at 5 minutes (with Irish moss if desired). Strain and chill. Rack off trub. Pitch yeast.
------
-- 360 -
 Ferment at 68 degrees for 3 days. Rack to secondary and lager 18 days at 42 degrees. After 18
 days keg and lager an additional 17 days.
+-----
+- 360 -
 Maibock
 Category Lager Bock
 Recipe Type All Grain
@@ -7982,8 +7983,6 @@ Munton & Fison Dark Plain Extract. Stir, don't let it stick at the bottom. Bring
 the Styrian Goldings. Boil 30 minutes, add the two cans of syrup, and the teaspoon of Irish Moss.
 Boil for 28 minutes more, add the remaining 1/2 oz of Styrian Goldings. Boil two more minutes,
 and turn off heat.
------
-- 363 -
 Usual procedure for wort cooling, addition of the yeast (pre-prepared) and bottling (use 3/4 cup
 corn sugar for bottling).
 I chose to add the Maple syrup ONLY after 30 minutes, mostly because I was a bit worried that
@@ -7995,6 +7994,8 @@ going about once every 2 minutes. I bottled on the 10th day, to be sure.
 My O.G. was 1.070, but it may vary depending on the syrup you use. My F.G. was 1.020, and
 again, it may vary. I found that he color of the Porter will be mostly black, with a slight pull
 towards brown.
+-----
+- 363 -
 Maple Porter
 Category Porter
 Recipe Type Extract
